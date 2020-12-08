@@ -13,8 +13,13 @@ Print the array by navigating backwards through it.
 ## Solution
 ![Array Reverse Whiteboard](./assets/array-reverse.png)
 
+Pull Requests:
+
+https://github.com/NickDorkins/data-structures-and-algorithms/pull/1
+
 Resources:
 
 https://stackoverflow.com/questions/3453085/what-is-double-colon-in-python-when-subscripting-sequences
 
 Worked with Amber Falbo
+
